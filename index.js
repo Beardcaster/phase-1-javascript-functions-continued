@@ -18,10 +18,4 @@ function wrapAdjective(highlight = '*', msg){
 
 wrapAdjective("%")("a dedicated programmer");
 
-/*function outer(greeting, msg = "It's a fine day to learn") {
-    return function (name, lang = "Python") {
-      return `${greeting}, ${name}! ${msg} ${lang}`;
-    };
-  }
-  
-  outer("Hello")("student", "JavaScript");*/
+//Referenced Flatiron materials for wrapAdjective function. Will update with proper attribution when I know how.
